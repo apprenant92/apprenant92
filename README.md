@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">. I'm Pravallika!
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Pravallika!
 ---
 An aspirant to further my education in Software Development Engineering with 3.5 years of professional experience. Skilled in Python, Appian (a Java-based technology), Machine Learning, and Deep Learning. Making significant, regular attempts to advance my profession by applying my knowledge and abilities.
 
