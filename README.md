@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Pravallika!
 ---
-An aspirant to further my education in Software Development Engineering with 3.5 years of professional experience. Skilled in Python, Appian (a Java-based technology), Machine Learning, and Deep Learning. Making significant, regular attempts to advance my profession by applying my knowledge and abilities.
+An aspirant to further my education in Software Development Engineering with 5+ years of professional experience. Skilled in Python, Appian (a Java-based technology), Machine Learning, and Deep Learning. Making significant, regular attempts to advance my profession by applying my knowledge and abilities.
 
 <!--
 **apprenant92/apprenant92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
